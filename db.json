@@ -1,0 +1,85 @@
+{
+    
+    "users": [
+    {
+    "last_name": "Lopez",
+    "email": "ydavis@example.org",
+    "id": 1,
+    "phone": "552-154-2444x338",
+    "street": "3301 Michelle Mission",
+    
+    },
+    {
+    "last_name": "Long",
+    "email": "jennifer93@example.org",
+    "id": 2,
+    "phone": "(957)456-4464x88505",
+    "street": "355 Moore Vista",
+   
+    },
+    {
+    "last_name": "Padilla",
+    "email": "rachelcantrell@example.com",
+    "id": 3,
+    "phone": "932-855-3738",
+    "street": "2606 Thomas Islands",
+   
+    },
+    {
+    "last_name": "Burgess",
+    "email": "shawchristopher@example.net",
+    "id": 4,
+    "phone": "284.821.2023x028",
+    "street": "531 Hopkins Corners",
+    
+    },
+    {
+    "last_name": "Powell",
+    "email": "vcervantes@example.org",
+    "id": 5,
+    "phone": "659-542-8434",
+    "street": "48988 Lindsay Trail Apt. 802",
+ 
+    },
+    {
+    "last_name": "Hansen",
+    "email": "zbray@example.org",
+    "id": 6,
+    "phone": "001-190-240-2636x880",
+    "street": "148 Blake Courts",
+    
+    },
+    {
+    "last_name": "Ford",
+    "email": "aaron02@example.org",
+    "id": 7,
+    "phone": "647-953-5827x37873",
+    "street": "80302 Norton Curve Suite 274",
+   
+    },
+    {
+    "last_name": "Berg",
+    "email": "tcarter@example.com",
+    "id": 8,
+    "phone": "001-163-065-9312x441",
+    "street": "238 Mcconnell Overpass",
+   
+    },
+    {
+    "last_name": "Miller",
+    "email": "sarahlutz@example.org",
+    "id": 9,
+    "phone": "154-489-0248",
+    "street": "917 Brooks Knolls",
+
+    },
+    {
+    "last_name": "Santos",
+    "email": "gmatthews@example.org",
+    "id": 10,
+    "phone": "(174)472-9891x21053",
+    "street": "831 Bradshaw Mount Apt. 294",
+    
+    }
+    ]
+    }
